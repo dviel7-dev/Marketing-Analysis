@@ -8,7 +8,7 @@ The Marketing_Campaign_Data.csv contain records of marketing interactions, desig
 
 Below is a detailed breakdown of the dataset's structure and contents:
 
-1. Column Overview
+##Column Overview
 The dataset consists of 7 columns:
 
 Interaction ID: A unique identifier for each customer interaction.
