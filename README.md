@@ -4,7 +4,7 @@
 An analysis of a marketing campaign and its different transmission channels, as well as total sales and new users, to achieve greater efficiency when investing in advertising.
 
 # The base CSV file
-The Marketing_Campaign_Data.csv contain records of marketing interactions, designed to analyze the effectiveness of different campaigns and channels.
+The [Marketing_Campaign_Data.csv](https://github.com/dviel7-dev/Marketing-Campaign-Analysis/blob/main/1-Marketing_Campaign_Data.csv) contain records of marketing interactions, designed to analyze the effectiveness of different campaigns and channels.
 
 Below is a detailed breakdown of the dataset's structure and contents:
 
