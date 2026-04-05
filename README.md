@@ -77,3 +77,6 @@ The analysis performed on marketing campaigns A and B and their different transm
 The analysis revealed total sales from new users totaling $988,528.51 and a total of 42,597 new users with a purchase rate of 47.86%.
 
 Campaign B via email acquired 9,700 new users and generated sales of $225,285.52, making it the most effective campaign in terms of acquiring new users and converting sales.
+
+The reason for this may be the more formal and personalized communication provided by email, and the campaign's more sober and corporate tone, as seen in campaign B. This builds trust with consumers and a sense of status and exclusivity, encouraging them to visit the website and make purchases.
+
