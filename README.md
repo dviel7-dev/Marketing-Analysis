@@ -29,7 +29,7 @@ Website banner
 
 “Which campaign and channel combination should we focus on to increase sales to new customers, and why?”
 
-# The base CSV file
+# The Data
 The Marketing_Campaign_Data.csv file contains records of marketing interactions from the weekly campaign; these records will be used to analyze the effectiveness of different campaigns and channels.
 
 Below is a detailed breakdown of the dataset's structure and contents:
@@ -51,7 +51,7 @@ Time on Site (seconds): The duration the user spent on the site.
 
 Sales ($): The revenue generated from the interaction.
 
-# Excel Analysis and Dashboard
+# Analysis and Dashboard
 The CSV file was converted to XLSX, and a table was created with the data. Several pivot tables were then created to obtain the following metrics:
 
 Sum of total sales.
