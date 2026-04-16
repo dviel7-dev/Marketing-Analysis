@@ -81,4 +81,7 @@ Campaign B via email acquired 9,700 new users and generated sales of $225,285.52
 The reason for this may be the more formal and personalized communication provided by email, and the campaign's more sober and corporate tone, as seen in campaign B. This builds trust with consumers and a sense of status and exclusivity, encouraging them to visit the website and make purchases
 
 
-<img width="1590" height="888" alt="MarketingInsights" src="https://github.com/user-attachments/assets/3d563f16-f50e-454f-b835-920ce320f06e" />
+<img width="1412" height="795" alt="Marketing_recommendations1" src="https://github.com/user-attachments/assets/bb66eca3-b7fb-4cfd-8ffc-19fa43bf308e" />
+<img width="1415" height="793" alt="Marketing_recommendations2" src="https://github.com/user-attachments/assets/c6678b41-3641-4e7c-adaa-b334f7cbb3a9" />
+<img width="1415" height="792" alt="Marketing_recommendations3" src="https://github.com/user-attachments/assets/ee6db0b4-35c4-4fe1-9f9a-80eaab4ef0de" />
+<img width="1413" height="794" alt="Marketing_recommendations4" src="https://github.com/user-attachments/assets/d8e136dc-a3d2-43a3-aed8-be26c7af2ca4" />
