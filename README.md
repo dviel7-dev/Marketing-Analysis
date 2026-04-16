@@ -52,23 +52,12 @@ Time on Site (seconds): The duration the user spent on the site.
 Sales ($): The revenue generated from the interaction.
 
 # 🔍 Analysis and Dashboard
-The CSV file was converted to XLSX, and a table was created with the data. Several pivot tables were then created to obtain the following metrics:
 
-Sum of total sales.
-
-User type.
-
-Percentage of converted sales.
-
-Total sales by channel and campaign.
-
-Total sales by campaign.
-
-Total sales by channel.
-
-A dashboard was then created with the obtained metrics:
-
-<img width="1019" height="717" alt="Marketing_excel_dashboard" src="https://github.com/user-attachments/assets/5fa69a5a-06bf-47c6-a01d-564f927e7fe5" />
+<img width="1360" height="473" alt="Marketing1" src="https://github.com/user-attachments/assets/90498a8b-ab27-4bb4-8b28-e0cf281a900a" />
+<img width="1360" height="210" alt="Marketing2" src="https://github.com/user-attachments/assets/8d279d5b-8b95-4afb-8862-3733e2d77a35" />
+<img width="1357" height="526" alt="Marketing3" src="https://github.com/user-attachments/assets/b2e8921f-3447-47de-ab55-fd251d47c0fd" />
+<img width="1355" height="447" alt="Marketing4" src="https://github.com/user-attachments/assets/d17aeed7-70a8-4434-b161-fd47092b9df3" />
+<img width="1357" height="548" alt="Marketing5" src="https://github.com/user-attachments/assets/0d6627d7-de32-4519-995b-11b2bce98409" />
 
 # 🚀 Results and Recommendations
 
