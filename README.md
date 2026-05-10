@@ -1,80 +1,80 @@
-# 📊 Marketing-Campaign-Analysis
+# 📊 Análisis de campañas de marketing
 ------------------------------
 
 
-An analysis of a marketing campaign and its different transmission channels, as well as total sales and new users, to achieve greater efficiency when investing in advertising.
+Un análisis de una campaña de marketing y sus diferentes canales de transmisión, así como de las ventas totales y los nuevos usuarios, para lograr una mayor eficiencia a la hora de invertir en publicidad.
 
 
 # 🔍 The Campaign
 
 
-In this project, our client, an online store, completed a week-long, multichannel marketing campaign designed to test messaging and customer response across a range of featured products.
+En este proyecto, nuestro cliente, una tienda online, llevó a cabo una campaña de marketing multicanal de una semana de duración, diseñada para evaluar la efectividad de los mensajes y la respuesta de los clientes ante una gama de productos destacados.
 
-The campaign included two versions of messages:
+La campaña incluyó dos versiones de los mensajes:
 
-## Campaign A used a casual, conversational tone:
+## La campaña A utilizó un tono informal y conversacional:
 
 <img width="1277" height="715" alt="Campaign A" src="https://github.com/user-attachments/assets/ac2e7133-9e7c-4cda-b280-14b613945386" />
 
-## Campaign B used a more promotional, sales-oriented tone:
+## La campaña B utilizó un tono más promocional y orientado a las ventas:
 
 <img width="1277" height="679" alt="Campaign B" src="https://github.com/user-attachments/assets/d020f971-bafd-4c8b-a545-27890394d643" />
 
-The client used three marketing channels:
+El cliente utilizó tres canales de marketing:
 
-Email
+Correo electrónico
 
 Instagram
 
-Website banner
+Banner en el sitio web
 
 
-## What the client wants to know:
+## Lo que el cliente quiere saber:
 
-“Which campaign and channel combination should we focus on to increase sales to new customers, and why?”
-
-
-# 🛠️ The Data
-
-The Marketing_Campaign_Data.csv file contains records of marketing interactions from the weekly campaign; these records will be used to analyze the effectiveness of different campaigns and channels.
-
-Below is a detailed breakdown of the dataset's structure and contents:
+“¿En qué combinación de campaña y canal deberíamos centrarnos para aumentar las ventas a nuevos clientes, y por qué?”
 
 
-## Column Overview
+# 🛠️ Los Datos
 
-The dataset consists of 7 columns:
+El archivo Marketing_Campaign_Data.csv contiene registros de las interacciones de marketing de la campaña semanal; estos registros se utilizarán para analizar la efectividad de las diferentes campañas y canales.
 
-Interaction ID: A unique identifier for each customer interaction.
-
-Campaign Type: Categorical variable with two groups, likely representing an A/B test.
-
-Channel: The marketing platform used for the interaction.
-
-Customer Type: Classification of the customer.
-
-Converted (1=yes, 0=no): A binary indicator of whether the interaction led to a conversion.
-
-Time on Site (seconds): The duration the user spent on the site.
-
-Sales ($): The revenue generated from the interaction.
+A continuación, se presenta un desglose detallado de la estructura y el contenido del conjunto de datos:
 
 
-# 🔍 Analysis and Dashboard
+## Resumen de las columnas
 
-The Analysis was made with Python libraries using Jupyter Notebooks
+El conjunto de datos consta de 7 columnas:
+
+ID de interacción: Un identificador único para cada interacción con el cliente.
+
+Tipo de campaña: Variable categórica con dos grupos, que probablemente representa una prueba A/B.
+
+Canal: La plataforma de marketing utilizada para la interacción.
+
+Tipo de cliente: Clasificación del cliente.
+
+Convertido (1=sí, 0=no): Un indicador binario que indica si la interacción generó una conversión.
+
+Tiempo en el sitio (segundos): La duración que el usuario permaneció en el sitio.
+
+Ventas ($): Los ingresos generados por la interacción.
+
+
+# 🔍 Análisis y panel de control
+
+El análisis se realizó con bibliotecas de Python utilizando Jupyter Notebooks.
 
 <img width="1338" height="847" alt="Marketing 1" src="https://github.com/user-attachments/assets/8acda37d-6d3c-4e71-bb5d-09fed4a42df1" />
 
-# 🚀 Results and Recommendations
+# 🚀 Resultados y recomendaciones
 
-The analysis performed on marketing campaigns A and B and their different transmission channels, with the objective of determining the best option when investing in advertising, concluded that campaign B via email is the best option when attracting new users, followed by campaign A via email, campaign B via Instagram, and campaign B via web banner.
+El análisis realizado sobre las campañas de marketing A y B y sus diferentes canales de transmisión, con el objetivo de determinar la mejor opción para invertir en publicidad, concluyó que la campaña B por correo electrónico es la mejor opción para atraer nuevos usuarios, seguida de la campaña A por correo electrónico, la campaña B por Instagram y la campaña B mediante banner web.
 
-The analysis revealed total sales from new users totaling $988,529 and a total of 42,597 new users with a purchase rate of 47.86%.
+El análisis reveló ventas totales de nuevos usuarios por un total de $988,529 y un total de 42,597 nuevos usuarios con una tasa de compra del 47.86%.
 
-Campaign B via email acquired 9,700 new users and generated sales of $225,285.52, making it the most effective campaign in terms of acquiring new users and converting sales.
+La campaña B por correo electrónico adquirió 9,700 nuevos usuarios y generó ventas por $225,285.52, convirtiéndose en la campaña más efectiva en términos de adquisición de nuevos usuarios y conversión de ventas.
 
-The reason for this may be the more formal and personalized communication provided by email, and the campaign's more sober and corporate tone, as seen in campaign B. This builds trust with consumers and a sense of status and exclusivity, encouraging them to visit the website and make purchases
+Esto podría deberse a la comunicación más formal y personalizada que ofrece el correo electrónico, y al tono más sobrio y corporativo de la campaña B. Esto genera confianza en los consumidores y una sensación de estatus y exclusividad, animándolos a visitar el sitio web y realizar compras.
 
 <img width="2400" height="1400" alt="customer_revenue" src="https://github.com/user-attachments/assets/6ed89bc0-d3f0-4b4b-bd24-501a17be062e" />
 <img width="2400" height="1400" alt="revenue_by_channel_campaign" src="https://github.com/user-attachments/assets/9de0f7fd-5516-4cdc-9341-506ced634f75" />
