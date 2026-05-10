@@ -64,12 +64,7 @@ Sales ($): The revenue generated from the interaction.
 
 The Analysis was made with Python libraries using Jupyter Notebooks
 
-<img width="1355" height="432" alt="MARKETING1" src="https://github.com/user-attachments/assets/6800a783-b8ef-48f9-8c66-6e100dd59ce5" />
-<img width="1354" height="181" alt="MARKETING2" src="https://github.com/user-attachments/assets/c3fc3b2c-08bc-4282-8a50-e44ffaef5543" />
-<img width="1355" height="443" alt="MARKETING3" src="https://github.com/user-attachments/assets/3bbc91be-a752-4e21-9526-8469f36367de" />
-<img width="1357" height="445" alt="MARKETING4" src="https://github.com/user-attachments/assets/f229563b-0473-4e32-a2cd-676173d2fc31" />
-<img width="1354" height="444" alt="MARKETING5" src="https://github.com/user-attachments/assets/cce37751-6300-4e53-85b3-3fda6710e6f6" />
-<img width="1353" height="567" alt="MARKETING6" src="https://github.com/user-attachments/assets/6437b281-c2f3-4985-9932-cc13a656dc11" />
+<img width="1338" height="847" alt="Marketing 1" src="https://github.com/user-attachments/assets/8acda37d-6d3c-4e71-bb5d-09fed4a42df1" />
 
 # 🚀 Results and Recommendations
 
@@ -81,9 +76,5 @@ Campaign B via email acquired 9,700 new users and generated sales of $225,285.52
 
 The reason for this may be the more formal and personalized communication provided by email, and the campaign's more sober and corporate tone, as seen in campaign B. This builds trust with consumers and a sense of status and exclusivity, encouraging them to visit the website and make purchases
 
-<img width="1414" height="795" alt="MARKETING_ANALYSIS1" src="https://github.com/user-attachments/assets/78a16a37-7180-46fc-9445-a3efbf335179" />
-<img width="1415" height="794" alt="MARKETING_ANALYSIS2" src="https://github.com/user-attachments/assets/a91dd1bd-b081-4d13-89e2-d4bd9e42fdfb" />
-<img width="1415" height="794" alt="MARKETING_ANALYSIS3" src="https://github.com/user-attachments/assets/d5028076-7c3c-4cd7-a0e6-51e7d1a2610e" />
-<img width="1412" height="793" alt="MARKETING_ANALYSIS4" src="https://github.com/user-attachments/assets/6f833947-4985-4e3b-8845-7f3b9b12bcaf" />
-<img width="1412" height="794" alt="MARKETING_ANALYSIS5" src="https://github.com/user-attachments/assets/1d23d595-f9db-401b-b576-7a520d23c26b" />
-
+<img width="2400" height="1400" alt="customer_revenue" src="https://github.com/user-attachments/assets/6ed89bc0-d3f0-4b4b-bd24-501a17be062e" />
+<img width="2400" height="1400" alt="revenue_by_channel_campaign" src="https://github.com/user-attachments/assets/9de0f7fd-5516-4cdc-9341-506ced634f75" />
