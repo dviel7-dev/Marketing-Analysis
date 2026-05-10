@@ -5,7 +5,7 @@
 Un análisis de una campaña de marketing y sus diferentes canales de transmisión, así como de las ventas totales y los nuevos usuarios, para lograr una mayor eficiencia a la hora de invertir en publicidad.
 
 
-# 🔍 The Campaign
+# 🔍 La Campaña
 
 
 En este proyecto, nuestro cliente, una tienda online, llevó a cabo una campaña de marketing multicanal de una semana de duración, diseñada para evaluar la efectividad de los mensajes y la respuesta de los clientes ante una gama de productos destacados.
