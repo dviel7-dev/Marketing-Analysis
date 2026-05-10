@@ -20,6 +20,8 @@ La campaña incluyó dos versiones de los mensajes:
 
 <img width="1277" height="679" alt="Campaign B" src="https://github.com/user-attachments/assets/d020f971-bafd-4c8b-a545-27890394d643" />
 
+--------------------------
+
 El cliente utilizó tres canales de marketing:
 
 Correo electrónico
